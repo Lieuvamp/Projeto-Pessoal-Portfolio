@@ -4,6 +4,7 @@ body {
     background: #000612;
     color: #fff;
     overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 header {
@@ -50,4 +51,11 @@ p {
     color: #BBB;
     font-size: 20px;
     margin-top: 24px;
+}
+
+footer {
+    align-items: center;
+    text-align: center;
+    margin-bottom: 30px;
+    transition: 200ms linear;
 }
